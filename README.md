@@ -1,6 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm B.Hanaa !!</h1>
 <h1 align="center">Visual Computing Master Student || AI & Data Science Enthusiast</h1>
 
+<p align="center">
+  <a href="https://github.com/Hanaa-22?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hanaa-22?color=green&logo=github">
+  </a>
+  <a href="https://github.com/Hanaa-22/">
+    <img src="https://komarev.com/ghpvc/?username=Hanaa-22" alt="visitors" />
+  </a>
+</p>
+
 - 🔭 Pursuing my Master's : **I’m deeply passionate about AI, Computer Vision, Data Science, and Programming.**
 
 - 🤝 I look forward to : **expanding my knowledge and learning from experienced professionals.**
