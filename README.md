@@ -30,11 +30,6 @@
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanaa-22&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /> </a>
     </td>
   </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Hanaa-22&theme=tokyonight&hide_border=true" alt="B.Hanaa's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
 </table>
 
 <!--## Hi there 👋-->
