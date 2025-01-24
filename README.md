@@ -32,3 +32,13 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h2 align="center"><b>⚡ Github Stats :<b></h2>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/Hanaa-22">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&count_private=true&show_icons=true&layout=compact&theme=midnight-purple" alt="Hanaa's GitHub Stats" style="width: 50%; margin-left: 10px;"/>
+  </a>
+  <a href="https://github.com/Hanaa-22">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=midnight-purple" alt="Hanaa-22's Most Used Languages" style="width: 45%; margin-left: 10px;"/>
+  </a>
+</div>
