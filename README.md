@@ -34,13 +34,9 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <h2 align="center"><b>⚡ Github Stats :<b></h2>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Hanaa-22"> <img src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Hanaa's GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/Hanaa-22"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanaa-22&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Hanaa-22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Hanaa's GitHub Stats" />
+</a>
+<a href="https://github.com/Hanaa-22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanaa-22&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+</a>
