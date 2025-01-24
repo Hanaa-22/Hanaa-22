@@ -37,10 +37,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Hanaa's GitHub Stats" /> </a>
+      <a href="https://github.com/Hanaa-22/Hanaa-22.git"> <img src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Hanaa's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanaa-22&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /> </a>
+      <a href="https://github.com/Hanaa-22/Hanaa-22.git"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanaa-22&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /> </a>
     </td>
   </tr>
 </table>
