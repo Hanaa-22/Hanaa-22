@@ -34,9 +34,11 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <h2 align="center"><b>⚡ Github Stats :<b></h2>
-<a href="https://github.com/Hanaa-22">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Hanaa's GitHub Stats" />
-</a>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=midnight-purple" alt="Hanaa-22's Most Used Languages" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/Hanaa-22">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Hanaa's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Hanaa-22">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=midnight-purple" alt="Hanaa-22's Most Used Languages" />
+  </a>
+</div>
