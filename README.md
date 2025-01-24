@@ -32,7 +32,7 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<!--
+
 <h2 align="center"><b>⚡ Github Stats :<b></h2>
 <table>
   <tr>
@@ -44,4 +44,3 @@
     </td>
   </tr>
 </table>
---!>
