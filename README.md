@@ -38,5 +38,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Hanaa's GitHub Stats" />
 </a>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=midnight-purple" alt="Hanaa-22's Most Used Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=midnight-purple" alt="Hanaa-22's Most Used Languages" />
 </p>
