@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Hanaa B. !!</h1>
 <h1 align="center">Visual Computing Master Student || AI & Data Science Enthusiast</h1>
 
+
 <p align="center">
   <a href="https://github.com/Hanaa-22?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hanaa-22?color=green&logo=github">
@@ -10,11 +11,13 @@
   </a>
 </p>
 
+
 - 🔭 Pursuing my Master's : **I’m deeply passionate about AI, Computer Vision, Data Science, and Programming.**
 
 - 🤝 I look forward to : **expanding my knowledge and learning from experienced professionals.**
 
 - 📫 Reach me on : **anna48691880@gmail.com**
+
 
 <h2 align="center"><b>🛠 What I use ?</b></h2>
 <p align="center"> 
@@ -32,6 +35,7 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
 
 <h2 align="center"><b>⚡ Github Stats :<b></h2>
 <div style="display: flex; justify-content: space-between; align-items: center;">
