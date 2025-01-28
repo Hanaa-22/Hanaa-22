@@ -40,9 +40,9 @@
 <h2 align="center"><b>⚡ Github Stats :<b></h2>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/Hanaa-22">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&count_private=true&show_icons=true&layout=compact&theme=ambient_gradient" alt="Hanaa's GitHub Stats" style="width: 50%; margin-left: 10px;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&count_private=true&show_icons=true&layout=compact&theme=ambient_gradient" alt="Hanaa's GitHub Stats" style="width: 50%; margin-left: 10px; background: linear-gradient(to right, #9C27B0, #2196F3);"/>
   </a>
   <a href="https://github.com/Hanaa-22">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=ambient_gradient" alt="Hanaa-22's Most Used Languages" style="width: 45%; margin-left: 10px;"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=ambient_gradient" alt="Hanaa-22's Most Used Languages" style="width: 45%; margin-left: 10px; background: linear-gradient(to right, #9C27B0, #2196F3);"/>
   </a>
 </div>
