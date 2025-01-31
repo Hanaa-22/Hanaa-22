@@ -43,6 +43,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&count_private=true&show_icons=true&layout=compact&theme=ambient_gradient" alt="Hanaa's GitHub Stats" style="width: 50%; margin-left: 10px;"/>
   </a>
   <a href="https://github.com/Hanaa-22">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=dark" alt="Hanaa-22's Most Used Languages" style="width: 45%; margin-left: 10px;"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=dark" alt="Hanaa-22's Most Used Languages" style="width: 40%; margin-left: 10px;"/>
   </a>
 </div>
