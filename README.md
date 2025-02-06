@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Hanaa B. !!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Hanaa B. !!</h1>
 <h1 align="center">Visual Computing Master Student || AI & Data Science Enthusiast</h1>
 
 
@@ -7,7 +7,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hanaa-22?color=green&logo=github">
   </a>
   <a href="https://github.com/Hanaa-22/">
-    <img src="https://komarev.com/ghpvc/?username=Hanaa-22" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=Hanaa-22" alt="visitors"/>
   </a>
 </p>
 
