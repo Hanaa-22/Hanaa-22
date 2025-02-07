@@ -12,7 +12,7 @@
 </p>
 
 
-- 🔭 Pursuing my Master's : **I’m deeply passionate about AI, Computer Vision, Data Science, and Programming.**
+- 🔭 Pursuing my master's : **I’m deeply passionate about AI, Computer Vision, Data Science, and Programming.**
 
 - 🤝 I look forward to : **expanding my knowledge and learning from experienced professionals.**
 
