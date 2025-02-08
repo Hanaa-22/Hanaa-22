@@ -37,15 +37,18 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-<h2 align="center"><b>⚡ Github Stats :<b></h2>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<h2 align="center"><b>⚡ Github Stats :</b></h2>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/Hanaa-22">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&count_private=true&show_icons=true&layout=compact&theme=ambient_gradient" alt="Hanaa's GitHub Stats" style="width: 50%; margin-left: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&count_private=true&show_icons=true&layout=compact&theme=ambient_gradient" 
+         alt="Hanaa's GitHub Stats" style="width: 45%; min-width: 300px;"/>
   </a>
   <a href="https://github.com/Hanaa-22">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=ambient_gradient" alt="Hanaa-22's Most Used Languages" style="width: 45%; margin-left: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=ambient_gradient" 
+         alt="Hanaa-22's Most Used Languages" style="width: 45%; min-width: 300px;"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanaa-22&theme=ambient_gradient&hide_border=false" alt="Hanaa-22"/>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanaa-22&theme=ambient_gradient&hide_border=false" 
+       alt="Hanaa-22" style="width: 60%; min-width: 350px;"/>
 </div>
