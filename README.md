@@ -38,7 +38,7 @@
 
 
 <h2 align="center"><b>⚡ Github Stats :</b></h2>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
   <a href="https://github.com/Hanaa-22">
     <img src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&count_private=true&show_icons=true&layout=compact&theme=ambient_gradient" 
          alt="Hanaa's GitHub Stats" style="width: 50%; min-width: 300px;"/>
@@ -48,7 +48,7 @@
          alt="Hanaa-22's Most Used Languages" style="width: 45%; min-width: 300px;"/>
   </a>
 </div>
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-top: 50px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanaa-22&theme=ambient_gradient&hide_border=false" 
-       alt="Hanaa-22" style="width: 50%; min-width: 350px;"/>
+       alt="Hanaa-22" style="width: 60%; min-width: 350px;"/>
 </div>
