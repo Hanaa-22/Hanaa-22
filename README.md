@@ -41,7 +41,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/Hanaa-22">
     <img src="https://github-readme-stats.vercel.app/api?username=Hanaa-22&count_private=true&show_icons=true&layout=compact&theme=ambient_gradient" 
-         alt="Hanaa's GitHub Stats" style="width: 45%; min-width: 300px;"/>
+         alt="Hanaa's GitHub Stats" style="width: 50%; min-width: 300px;"/>
   </a>
   <a href="https://github.com/Hanaa-22">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=ambient_gradient" 
