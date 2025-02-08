@@ -46,3 +46,4 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanaa-22&show_icons=true&layout=compact&theme=ambient_gradient" alt="Hanaa-22's Most Used Languages" style="width: 45%; margin-left: 10px;"/>
   </a>
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanaa-22&theme=ambient_gradient&hide_border=false" alt="Hanaa-22" /></p>
