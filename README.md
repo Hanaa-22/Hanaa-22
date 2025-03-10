@@ -74,3 +74,15 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Hanaa-22&limit=6&theme=cobalt&combine_all_yearly_contributions=true&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" 
        alt="Top Contributed Repositories" style="width: 60%; min-width: 350px;"/>
 </p>
+
+<h2 align="center"><b>🏆 GitHub Trophies :</b></h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hanaa-22&theme=cobalt&no-frame=false&no-bg=false&margin-w=4" 
+       alt="GitHub Trophies" style="width: 90%; min-width: 300px;"/>
+</p>
+
+<h2 align="center"><b>💬 Inspirational Quote :</b></h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt" 
+       alt="Quote of the Day" style="width: 70%; min-width: 300px;"/>
+</p>
