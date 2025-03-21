@@ -86,3 +86,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt" 
        alt="Quote of the Day" style="width: 70%; min-width: 300px;"/>
 </p>
+
+![img](./otaku.png)
