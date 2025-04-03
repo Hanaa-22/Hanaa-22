@@ -69,6 +69,12 @@
        alt="Hanaa-22's Streak Stats" style="width: 60%; min-width: 350px;"/>
 </div>
 
+<h2 align="center"><b>📈 GitHub Activity :</b></h2>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanaa-22&theme=cobalt"  
+         alt="Hanaa's GitHub Activity Graph" style="width: 90%; min-width: 300px;"/> 
+</p>
+
 <h2 align="center"><b>🔝 Top Contributed Repositories :</b></h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Hanaa-22&limit=6&theme=cobalt&combine_all_yearly_contributions=true&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" 
