@@ -13,6 +13,12 @@
   </a>
 </p>
 
+<br>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" align="center" style="width: 100%" />
+</div>
+<br>
+
 - 🔭 **Pursuing my master's:** I’m deeply passionate about AI, Computer Vision, Data Science, and Programming.
 - 🤝 **I look forward to:** Expanding my knowledge and learning from experienced professionals.
 - 📫 **Reach me on:** anna48691880@gmail.com
