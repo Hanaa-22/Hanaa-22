@@ -8,6 +8,9 @@
   <a href="https://github.com/Hanaa-22?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hanaa-22?color=green&logo=github">
   </a>
+  <a href="https://discordapp.com/users/885846370097987584" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
+  </a>
   <a href="https://github.com/Hanaa-22/">
     <img src="https://komarev.com/ghpvc/?username=Hanaa-22" alt="visitors"/>
   </a>
